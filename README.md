@@ -8,10 +8,10 @@ This project sets up a SQLite database to store information about authors and bo
 
 # Tables
 
-# Authors
+Authors
 The Authors table stores information about the authors, including their first name, last name, and nationality.
 
-# Books
+Books
 The Books table stores information about the books, including the title, author, description, and a reference to the author in the Authors table.
 
 ![Screenshot (123)](https://github.com/user-attachments/assets/774f38bd-cf3e-4729-a57f-216fa2a7b726)
@@ -32,13 +32,13 @@ Sample data has been inserted into both the Authors and Books tables.
 ![Screenshot (126)](https://github.com/user-attachments/assets/0c3f2ff1-090b-4ef8-968e-7d149b32e6fb)
 
 
-1. Total Number of Books.
+# 1. Total Number of Books.
 ![Screenshot (116)](https://github.com/user-attachments/assets/bb5e2854-d849-4c2f-94e4-7ad6bb37fea9)
 
-2. Author with the Most Books.
+# 2. Author with the Most Books.
 ![Screenshot (117)](https://github.com/user-attachments/assets/d082bc31-8b3d-48f2-b9ae-8c463d936775)
 
-3. Number of Books Published per Country.
+# 3. Number of Books Published per Country.
 ![Screenshot (119)](https://github.com/user-attachments/assets/71d7c8a6-d049-4e10-ba14-353e0a6850a1)
 
 # Usage
