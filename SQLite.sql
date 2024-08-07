@@ -60,7 +60,7 @@ SELECT A.F_Name, A.L_Name, COUNT(B.An_Author) as BookCount
 FROM Authors A
 JOIN Books B ON A.author_Id = B.An_Author
 GROUP BY A.author_Id, A.F_Name, A.L_Name
-ORDER BY BookCount DESC
+ORDER BY BookCount DESC 
 LIMIT 1;
 
 SELECT a.Nationality, COUNT(b.Book_ID) AS book_count
