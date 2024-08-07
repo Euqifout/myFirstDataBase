@@ -8,7 +8,7 @@ This project sets up a SQLite database to store information about authors and bo
 
 # Tables
 
-Authors
+Authors.
 The Authors table stores information about the authors, including their first name, last name, and nationality.
 
 Books.
