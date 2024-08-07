@@ -9,11 +9,9 @@ This project sets up a SQLite database to store information about authors and bo
 # Tables
 
 Authors
-
 The Authors table stores information about the authors, including their first name, last name, and nationality.
 
-Books
-
+Books.
 The Books table stores information about the books, including the title, author, description, and a reference to the author in the Authors table.
 
 ![Screenshot (123)](https://github.com/user-attachments/assets/774f38bd-cf3e-4729-a57f-216fa2a7b726)
