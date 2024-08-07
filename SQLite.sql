@@ -1,4 +1,4 @@
--- SQLite
+-- Using SQLite, Toufique Mahlangu
 -- Created two tables.
 -- One to store author info 
 CREATE TABLE "Authors" (
